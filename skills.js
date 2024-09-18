@@ -1,7 +1,3 @@
-function leapYear(year) {
-  if (year % 4 === 0) {
-    return true;
-  } else {
-    return false;
-  }
+function calculateNumbers(value1, value2) {
+  return value1 + value2;
 }
